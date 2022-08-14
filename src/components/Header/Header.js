@@ -14,7 +14,7 @@ const Header = () => {
                 <div className="flex items-center">
                 <img className="w-[150px] mr-20" src={logo} alt="" />
                 </div>
-                <ul className="hidden md:flex">
+                <ul className="hidden md:flex cursor-pointer">
                 <li className=" px-[30px] font-[600] bt-style">ABOUT US</li>
                 <li className=" px-[30px] font-[600] bt-style">PROJECTS</li>
                 <li className=" px-[30px] font-[600] bt-style">DIVERSIFICATION</li>
@@ -49,7 +49,7 @@ const Header = () => {
                   : "block md:hidden bg-white rounded-b-[8px] absolute top-[6rem] right-[2rem]"
               }
             >
-              <ul className="px-[1.75rem] pt-3 pb-3 text-center space-y-1 ">
+              <ul className="px-[1.75rem] pt-3 pb-3 text-center space-y-1 cursor-pointer">
                 <li className=" block cursor-pointer py-2 px-3 font-[600] hover:bg-slate-400">
                 ABOUT US
                 </li>
