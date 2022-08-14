@@ -1,0 +1,8 @@
+.bg{
+    background-image: url('../../../Assets/bg/main-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+    background-color: rgba(252, 249, 249, 0.795);
+    background-blend-mode: overlay;
+}
