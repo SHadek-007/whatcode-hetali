@@ -1,0 +1,6 @@
+.bg2{
+    background-image: url('../../../Assets/bg/second-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+}

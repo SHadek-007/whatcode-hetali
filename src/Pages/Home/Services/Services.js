@@ -64,7 +64,7 @@ const Services = () => {
         </div>
       </div>
       <div className="bg pb-10">
-        <div className="bg-[#000000] h-[153px]"></div>
+        <div className="bg-[#000000bb] h-[153px]"></div>
         <p className="px-5 lg:px-40 mt-10 text-justify text-[#474747]">
           Established in 1992, Hetali Group is a leading real estate developer
           of residential spaces across Mumbai and have earned an unmatched
