@@ -14,12 +14,12 @@ const Responsibility = () => {
                     <div>
                         <div className='bg-[#F5F5F5] p-3 rounded-md shadow-md'>
                             <p className='text-2xl font-bold'>Education for the under-privileged</p>
-                            <p className='text-xl text-[#474747] text-justify mt-2'>We believe that our future lies in the holistic educational foundation of the youth and we have nurtured that cause by providing the necessary books and monetary support to the under-privileged children of Mumbai & also at several villages in Gujarat. As the Trustees of the H A Desai Boarding School in Matunga, Mumbai, we have been providing living and hospitality services to the academically bright students from the weaker monetary sections of the society.</p>
+                            <p className='text-xl text-[#474747] text-justify mt-3'>We believe that our future lies in the holistic educational foundation of the youth and we have nurtured that cause by providing the necessary books and monetary support to the under-privileged children of Mumbai & also at several villages in Gujarat. As the Trustees of the H A Desai Boarding School in Matunga, Mumbai, we have been providing living and hospitality services to the academically bright students from the weaker monetary sections of the society.</p>
                         </div>
-                        <div className='px-3 py-4 shadow-md rounded-md mt-3'>
+                        <div className='px-3 py-4 shadow-md rounded-md mt-6'>
                             <p className='text-[#909090] text-2xl font-bold'>Support for Rural Farmers</p>
                         </div>
-                        <div className='px-3 py-4 shadow-md rounded-md mt-3'>
+                        <div className='px-3 py-4 shadow-md rounded-md mt-6'>
                             <p className='text-[#909090] text-2xl font-bold'>Spiritual</p>
                         </div>
                     </div>
